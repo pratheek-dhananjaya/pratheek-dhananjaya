@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Pratheek Dhananjaya</h1>
 <h3 align="center">I am a security enthusiast and a software developer, passionate in developing applications and invoking security at the best possible way.</h3>
+<img align="right" alt="Coding" width="400">
 
 - 🌱 I’m currently learning **Advanced Computer Security and Online Privacy, Security and Privacy in Networked and Distributed Systems, Database Systems**
 
