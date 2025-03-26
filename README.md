@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **LLM Security, End-To-End Encryption using Signal Protocol**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pratheek-dhananjaya?tab=repositories](https://github.com/pratheek-dhananjaya?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/pratheek-dhananjaya?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/pulse/passkeys-what-why-how-pratheek-dhananjaya-aq2ac/?trackingId=QwS5HVW5Slmn7kzukW7Tlg%3D%3D](https://www.linkedin.com/pulse/passkeys-what-why-how-pratheek-dhananjaya-aq2ac/?trackingId=QwS5HVW5Slmn7kzukW7Tlg%3D%3D)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/pulse/passkeys-what-why-how-pratheek-dhananjaya-aq2ac/?trackingId=QwS5HVW5Slmn7kzukW7Tlg%3D%3D)
 
 - 💬 Ask me about **Software Development, Security, REST APIs**
 
 - 📫 How to reach me **pratheekdhananjaya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bhx-01yzt85rISiV9eHNQc6FgmOLzzhY/view?usp=drive_link](https://drive.google.com/file/d/1bhx-01yzt85rISiV9eHNQc6FgmOLzzhY/view?usp=drive_link)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1bhx-01yzt85rISiV9eHNQc6FgmOLzzhY/view?usp=drive_link)
 
 - ⚡ Fun fact **I am a photographer and I edit every single photo before posting it**
 
