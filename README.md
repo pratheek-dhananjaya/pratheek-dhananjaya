@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Pratheek Dhananjaya</h1>
 <h3 align="center">I am a security enthusiast and a software developer, passionate in developing applications and invoking security at the best possible way.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/pratheek-dhananjaya/image/blob/main/Adobe%20Express%20-%20file.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/pratheek-dhananjaya/Details/blob/main/Adobe%20Express%20-%20file.png">
 
 - 🌱 I’m currently learning **Advanced Computer Security and Online Privacy, Security and Privacy in Networked and Distributed Systems, Database Systems**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pratheekdhananjaya@gmail.com**
 
-- 📄 Know about my experiences in my [resume](https://github.com/pratheek-dhananjaya/image/blob/main/Resume_Pratheek_Dhananjaya.pdf)
+- 📄 Know about my experiences in my [resume](https://github.com/pratheek-dhananjaya/Details/blob/main/Resume_Pratheek_Dhananjaya.pdf)
 
 - ⚡ Fun fact **I am a photographer and I edit every single photo before posting it**
 
