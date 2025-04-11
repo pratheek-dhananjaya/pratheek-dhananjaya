@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pratheekdhananjaya@gmail.com**
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1bhx-01yzt85rISiV9eHNQc6FgmOLzzhY/view?usp=drive_link)
+- 📄 Know about my experiences in my [resume](https://github.com/pratheek-dhananjaya/image/blob/main/Resume_Pratheek_Dhananjaya.pdf)
 
 - ⚡ Fun fact **I am a photographer and I edit every single photo before posting it**
 
