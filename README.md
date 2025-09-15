@@ -2,11 +2,13 @@
 <h3 align="center">I am a security enthusiast and a software developer, passionate in developing applications and invoking security at the best possible way.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/pratheek-dhananjaya/Details/blob/main/Adobe%20Express%20-%20file.png">
 
-- 🌱 I’m currently learning **Advanced Computer Security and Online Privacy, Security and Privacy in Networked and Distributed Systems, Database Systems**
-
 - 🎓 I’m currently pursuing my **Master's in Computer Science**
 
-- 🔭 I’m currently working on **LLM Security, End-To-End Encryption using Signal Protocol**
+- 🌱 I’m currently learning **Visualization and Visual Analytics & Query Processing in Database Systems**
+
+- 🔭 I’ve worked on projects like **Chatbot Security, End-To-End Encryption using Signal Protocol, Malware Detection using LLM, Two Factor Authentication using Morse Code**
+
+- 💻 I'm currently working on **Splunk, and BOTSv3**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/pratheek-dhananjaya?tab=repositories)
 
@@ -14,7 +16,7 @@
 
 - 💬 Ask me about **Software Development, Security, REST APIs**
 
-- 📫 How to reach me **pratheekdhananjaya@gmail.com**
+- 📫 How to reach me **[pratheekdhananjaya@gmail.com](mailto: pratheekdhananjaya@gmail.com)**
 
 - 📄 Know about my experiences in my [resume](https://github.com/pratheek-dhananjaya/Details/blob/main/Resume_Pratheek_Dhananjaya.pdf)
 
