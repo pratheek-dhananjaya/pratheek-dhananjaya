@@ -8,7 +8,7 @@
 
 - 🔭 I’ve worked on projects like **Chatbot Security, End-To-End Encryption using Signal Protocol, Malware Detection using LLM, Two Factor Authentication using Morse Code**
 
-- 💻 I'm currently working on **Splunk, and BOTSv3**
+- 💻 I'm currently working on **Splunk and BOTSv3**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/pratheek-dhananjaya?tab=repositories)
 
