@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Software Development, Security, REST APIs**
 
-- 📫 How to reach me (pratheekdhananjaya@gmail.com)[mailto: pratheekdhananjaya@gmail.com]
+- 📫 You can reach me at [pratheekdhananjaya@gmail.com](mailto:pratheekdhananjaya@gmail.com)
 
 - 📄 Know about my experiences in my [resume](https://github.com/pratheek-dhananjaya/Details/blob/main/Resume_Pratheek_Dhananjaya.pdf)
 
